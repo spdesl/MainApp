@@ -1,0 +1,11 @@
+/Users/sepideh/MainApp/bussiness/bin/Debug/net8.0/bussiness.deps.json
+/Users/sepideh/MainApp/bussiness/bin/Debug/net8.0/bussiness.dll
+/Users/sepideh/MainApp/bussiness/bin/Debug/net8.0/bussiness.pdb
+/Users/sepideh/MainApp/bussiness/obj/Debug/net8.0/bussiness.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sepideh/MainApp/bussiness/obj/Debug/net8.0/bussiness.AssemblyInfoInputs.cache
+/Users/sepideh/MainApp/bussiness/obj/Debug/net8.0/bussiness.AssemblyInfo.cs
+/Users/sepideh/MainApp/bussiness/obj/Debug/net8.0/bussiness.csproj.CoreCompileInputs.cache
+/Users/sepideh/MainApp/bussiness/obj/Debug/net8.0/bussiness.dll
+/Users/sepideh/MainApp/bussiness/obj/Debug/net8.0/refint/bussiness.dll
+/Users/sepideh/MainApp/bussiness/obj/Debug/net8.0/bussiness.pdb
+/Users/sepideh/MainApp/bussiness/obj/Debug/net8.0/ref/bussiness.dll

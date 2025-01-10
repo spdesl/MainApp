@@ -1,0 +1,5 @@
+/Users/sepideh/MainApp/presentaiton.console.MainApp/obj/Debug/net8.0/presentaiton.consoleApp.csproj.AssemblyReference.cache
+/Users/sepideh/MainApp/presentaiton.console.MainApp/obj/Debug/net8.0/presentaiton.consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sepideh/MainApp/presentaiton.console.MainApp/obj/Debug/net8.0/presentaiton.consoleApp.AssemblyInfoInputs.cache
+/Users/sepideh/MainApp/presentaiton.console.MainApp/obj/Debug/net8.0/presentaiton.consoleApp.AssemblyInfo.cs
+/Users/sepideh/MainApp/presentaiton.console.MainApp/obj/Debug/net8.0/presentaiton.consoleApp.csproj.CoreCompileInputs.cache
